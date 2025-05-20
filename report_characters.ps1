@@ -1,4 +1,4 @@
-﻿# Determine the characters used in file names
+﻿# Determine the characters used in file names with Powershell
 # Provides information on potentially problematic characters in the file names
 #
 # Date: 2024-11-07 | Version 1.0
